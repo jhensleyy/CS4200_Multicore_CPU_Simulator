@@ -1,0 +1,10 @@
+CORE 0
+busy_time=13
+utilization=100.00%
+timeline=T1[0-5] -> T4[5-7] -> T5[7-13]
+
+CORE 1
+busy_time=8
+utilization=61.54%
+timeline=T2[0-3] -> T3[3-7] -> T6[7-8]
+

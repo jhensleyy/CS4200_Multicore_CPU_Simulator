@@ -1,0 +1,10 @@
+cores=2
+tasks_completed=6
+single_core_time=21
+multicore_time=13
+time_saved=8
+speedup=1.62x
+throughput=0.46
+overall_utilization=80.77%
+core_0_utilization=100.00%
+core_1_utilization=61.54%
